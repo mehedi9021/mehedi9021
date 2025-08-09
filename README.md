@@ -47,9 +47,6 @@ Experienced Software Quality Assurance Engineer, well-versed in creating and exe
       <img src="https://github-readme-stats.vercel.app/api?username=mehedi9021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     </td>
     <td width="33%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mehedi9021" alt="GitHub Streak" />
-    </td>
-    <td width="33%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi9021&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
