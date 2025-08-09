@@ -48,6 +48,7 @@ Experienced Software Quality Assurance Engineer, well-versed in creating and exe
 ## 🔗 Connect With Me
 
 <div align="center">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mehedi9021.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mehedi-hasan-a8104117a/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Hasan-185)
@@ -55,4 +56,5 @@ Experienced Software Quality Assurance Engineer, well-versed in creating and exe
 [![Scopus](https://img.shields.io/badge/Scopus-1E4D2B?style=for-the-badge&logoColor=white)](#)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zjKNDakAAAAJ&hl=en&authuser=1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi.sqae@gmail.com)
+
 </div>
