@@ -39,19 +39,6 @@ Experienced Software Quality Assurance Engineer, well-versed in creating and exe
 ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![TestRunner](https://img.shields.io/badge/TestRunner-0052CC?style=for-the-badge&logo=testing-library&logoColor=white)
 
-## 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mehedi9021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi9021&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
